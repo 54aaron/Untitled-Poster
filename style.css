@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #7ACFB4;
+    /* background: linear-gradient(180deg, rgba(122,207,180,1) 50%, rgba(244,247,224,1) 90%); */
+
+    display:block;
+}
+
+canvas {
+    display: block;
+}
+
+h1 {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -100px;
+
+    font-size: 248px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #EBF0CC;
+}
